@@ -1,0 +1,2 @@
+defmodule SlackCloudVision do
+end
